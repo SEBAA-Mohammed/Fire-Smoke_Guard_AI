@@ -7,3 +7,6 @@
 [submodule "submodules/FireDetector_server"]
 	path = submodules/FireDetector_server
 	url = https://github.com/SEBAA-Mohammed/FireDetector_server.git
+[submodule "submodules/FireDetector_xml_camera_program"]
+	path = submodules/FireDetector_xml_camera_program
+	url = https://github.com/SEBAA-Mohammed/FireDetector_xml_camera_program.git

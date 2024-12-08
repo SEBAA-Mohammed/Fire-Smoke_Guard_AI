@@ -1,0 +1,3 @@
+[submodule "submodules/FireDetector_FrontEnd"]
+	path = submodules/FireDetector_FrontEnd
+	url = https://github.com/SEBAA-Mohammed/FireDetector_FrontEnd.git

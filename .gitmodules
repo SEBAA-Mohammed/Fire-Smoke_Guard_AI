@@ -1,3 +1,6 @@
 [submodule "submodules/FireDetector_FrontEnd"]
 	path = submodules/FireDetector_FrontEnd
 	url = https://github.com/SEBAA-Mohammed/FireDetector_FrontEnd.git
+[submodule "submodules/FireDetector_yolo_camera_program"]
+	path = submodules/FireDetector_yolo_camera_program
+	url = https://github.com/SEBAA-Mohammed/FireDetector_yolo_camera_program.git
